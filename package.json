@@ -2,10 +2,10 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "forkify app ",
-  "source": "index.html",
+  "default": "index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Fran Codino",
   "license": "ISC",
