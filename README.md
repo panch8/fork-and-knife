@@ -1,4 +1,4 @@
-### fork-and-knife App all design credits to @jonasSchmetmann. 
+### fork-and-knife App all design credits to @jonasSchmedtmann. 
 
 # MCV (Model-Controller-View) architechture app which provides a friendly UI for consuming recipe API. 
 # Publisher-Observer pattern. 
